@@ -1,0 +1,16 @@
+# Archivos de entorno
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
